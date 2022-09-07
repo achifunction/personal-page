@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300;800;900&family=IBM+Plex+Sans:wght@400;700&family=Kumbh+Sans:wght@400;700&family=Outfit:wght@300&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap");
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 1832px;
+  width: 1440px;
+  
+  background-image: url(https://cdn.glitch.global/64c46ce6-d76a-465c-b3f6-3dd1a1d0cfb1/bg-main-desktop.png?v=1657466566291);
+}
+
+.section1 {
+  display: flex;
+  justify-content: space-between;
+}
+.logo1 {
+  margin: 61px 0px 0px 166px;
+}
+.h1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 88px;
+  line-height: 88px;
+  letter-spacing: -1px;
+  color: #191826;
+  margin: -250px 260px 0px 167px;
+  display: block;
+}
+
+.p1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #191826;
+  display: block;
+  padding: 40px 450px 0px 165px;
+}
+
+.section2 {
+  padding-bottom: 289px;
+}
+.section3 {
+  background-color: rgba(25, 24, 38, 1);
+  height: 600px;
+  width: 1110px;
+  margin-left: 165px;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 15px;
+}
+.phone {
+  height: 640px;
+  width: 315px;
+  left: 283px;
+  top: 659px;
+  border-radius: 0px;
+  position: absolute;
+}
+.back-phone {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #191826;
+  display: block;
+  margin-right: 112px;
+}
+.EQ {
+  background-color: rgba(250, 116, 83, 1);
+  height: 625px;
+  width: 446px;
+  border-radius: 12px;
+  position: absolute;
+  top: 1000px;
+  left: 742px;
+}
+.premium {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fcfaf9;
+  display: block;
+  margin: 55px 60px 0px 55px;
+}
+.content {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #fcfaf9;
+  margin: 0px;
+  padding: 25px 55px 39px 55px;
+}
+.price {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 52px;
+  color: #fcfaf9;
+  padding-right: 16px;
+  margin-left: 55px;
+}
+.month {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #fcfaf9;
+}
+.ios {
+  background: black;
+  height: 61px;
+  width: 333px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 60px 14px 55px;
+  
+}
+.android {
+  height: 61px;
+  width: 333px;
+  border-radius: 12px;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 60px 50px 55px;
+}
+
+a {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+
+  letter-spacing: -0.18px;
+  color: #fcfaf9;
+  margin-left: 7px;
+}
+a1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+
+  letter-spacing: -0.18px;
+  color: #191826;
+  margin-left: 7px;
+}
+span {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  color: #191826;
+  display: block;
+  height: 79px;
+  width: 366px;
+}
+.inst {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.fc {
+  margin-left: 32px;
+}
+.icon {
+  padding-top: 32px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 200px;
+  width: 1110px;
+  margin-left: 175px;
+}
+.logo2 {
+  padding-bottom: 35px;
+}
